@@ -119,7 +119,10 @@ class Sidebar(object):
         self.r.draw(self.x, self.r.y, "".join(c for c in label.upper()),
                     size=7.2, font=b"/F2", color=SIDE_MU, leading=8.6)
         self.r.space(2)
-        self.para(value, size=8.6, color=WHITE, maxw=self.maxw, lead=11.2)
+        size = 8.6
+        if width(value, size) > self.maxw:
+            size = max(6.5, size * (self.maxw / width(value, size)))
+        self.para(value, size=size, color=WHITE, maxw=self.maxw, lead=11.2)
         self.r.space(1)
 
     def bullet(self, text, size=8.6, lead=11.2, color=WHITE):
