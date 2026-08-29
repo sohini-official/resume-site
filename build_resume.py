@@ -215,7 +215,7 @@ def build():
     side.label_value("Email", "sohini1236@gmail.com")
     side.label_value("Phone", "+91 8013250607 (WhatsApp)")
     side.label_value("Location", "Ichhapur, West Bengal, India")
-    side.label_value("LinkedIn", "linkedin.com/in/SohiniBanerjee")
+    side.label_value("LinkedIn", "linkedin.com/in/sohini-banerjee-4b967115b")
 
     side.title("Skills")
     side.bullet("Project Management & Planning")
