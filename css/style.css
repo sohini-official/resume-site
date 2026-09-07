@@ -293,6 +293,48 @@ footer {
   background: var(--surface);
 }
 
+/* ---------- Articles / Blog ---------- */
+.blog-grid {
+  align-items: stretch;
+}
+
+.article-card h1 {
+  margin: 0 0 6px;
+}
+
+.article-title {
+  font-size: 1.7rem;
+}
+
+.article-meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 18px;
+}
+
+.article-body {
+  max-width: 72ch;
+  line-height: 1.8;
+  font-size: 1.02rem;
+}
+
+.article-body p {
+  margin: 0 0 1.1rem;
+}
+
+.article-card .tag-list {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.article-nav {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin: 26px 0;
+}
+
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   .hero h1 {
