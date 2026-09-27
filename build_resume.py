@@ -203,6 +203,14 @@ class Main(object):
         self.para(s, size=size, indent=14, lead=lead)
         self.r.y -= 1
 
+    def role(self, role, meta):
+        self.r.ensure(30)
+        self.r.draw(self.x, self.r.y, role, size=10.5, font=b"/F2",
+                    color=TEXT, leading=13.5)
+        self.r.draw(self.x, self.r.y, meta, size=9, font=b"/F3",
+                    color=MUTED, leading=11.5)
+        self.r.space(2)
+
 
 def build():
     r = Resume()
@@ -221,14 +229,15 @@ def build():
     side.label_value("LinkedIn", "linkedin.com/in/sohini-banerjee-4b967115b")
 
     side.title("Skills")
-    side.bullet("Project Management & Planning")
-    side.bullet("Agile & Scrum (Google PM)")
-    side.bullet("Stakeholder Communication")
-    side.bullet("Public Speaking & Presentations")
+    side.bullet("Project Management & Planning (Project+)")
+    side.bullet("Agile Project Management · Scrum · Kanban")
+    side.bullet("Team Coordination & Stakeholder Management")
     side.bullet("Conflict Resolution & Teamwork")
-    side.bullet("Recruitment & Onboarding Interest")
+    side.bullet("Public Speaking & Presentations")
+    side.bullet("Recruitment & Onboarding")
+    side.bullet("International Project Experience")
     side.bullet("MS Office · Google Workspace")
-    side.bullet("HTML / CSS · Python / SQL Basics")
+    side.bullet("HTML/CSS · Python/SQL · Procedural Programming")
 
     side.title("Education")
     side.bullet("BTech, Computer Science & Engineering - Hooghly Engineering & Technology College (2025)")
@@ -258,11 +267,15 @@ def build():
         "projects, rallying teams, and making complex ideas simple. Seeking an entry-level role in project "
         "management, marketing, HR, or training where I can learn fast and deliver real impact.")
 
-    main.title("Career Focus")
-    main.ace_bullet("Project Co-ordination & Delivery - planning, scheduling, Agile workflows, stakeholder updates")
-    main.ace_bullet("Marketing & Brand Communication - audience engagement, campaign basics, content & persuasion")
-    main.ace_bullet("People & HR - employee engagement, recruitment support, training and onboarding")
-    main.ace_bullet("Teaching & Mentoring - making technical and management concepts easy to grasp")
+    main.title("Experience")
+    main.role("Project Management Intern",
+              "Pehchaan The Street School (Trust) · Remote · 2026 (2-week programme)")
+    main.ace_bullet("Coordinated volunteers and assisted with planning and delivery of initiatives supporting "
+                    "street-school students")
+    main.ace_bullet("Tracked deadlines and kept distributed team members aligned on schedules, tasks, "
+                    "and follow-ups")
+    main.ace_bullet("Pitched and promoted campaigns to drive participation and awareness, translating the "
+                    "team's goals into clear calls to action")
 
     main.title("Achievements")
     main.ace_bullet("Debate Champion - first position in English and Hindi debate competitions, showcasing "

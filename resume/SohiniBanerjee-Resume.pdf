@@ -4,7 +4,7 @@
 3 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
 4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
 5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> endobj
-6 0 obj << /Length 8387 >>
+6 0 obj << /Length 8917 >>
 stream
 0.160 0.230 0.420 rg
 
@@ -114,11 +114,19 @@ BT
 (Project Management & Planning) Tj
 ET
 
+1.000 1.000 1.000 rg
+
+BT
+/F1 8.6 Tf
+34 608.4899999999997 Td
+(\(Project+\)) Tj
+ET
+
 0.300 0.420 0.750 rg
 
 BT
 /F1 8.6 Tf
-22 606.4899999999997 Td
+22 594.2899999999996 Td
 (•) Tj
 ET
 
@@ -126,15 +134,23 @@ ET
 
 BT
 /F1 8.6 Tf
-34 604.4899999999997 Td
-(Agile & Scrum \(Google PM\)) Tj
+34 592.2899999999996 Td
+(Agile Project Management · Scrum ·) Tj
+ET
+
+1.000 1.000 1.000 rg
+
+BT
+/F1 8.6 Tf
+34 580.0899999999996 Td
+(Kanban) Tj
 ET
 
 0.300 0.420 0.750 rg
 
 BT
 /F1 8.6 Tf
-22 590.2899999999996 Td
+22 565.8899999999995 Td
 (•) Tj
 ET
 
@@ -142,15 +158,23 @@ ET
 
 BT
 /F1 8.6 Tf
-34 588.2899999999996 Td
-(Stakeholder Communication) Tj
+34 563.8899999999995 Td
+(Team Coordination & Stakeholder) Tj
+ET
+
+1.000 1.000 1.000 rg
+
+BT
+/F1 8.6 Tf
+34 551.6899999999995 Td
+(Management) Tj
 ET
 
 0.300 0.420 0.750 rg
 
 BT
 /F1 8.6 Tf
-22 574.0899999999996 Td
+22 537.4899999999994 Td
 (•) Tj
 ET
 
@@ -158,23 +182,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 572.0899999999996 Td
-(Public Speaking & Presentations) Tj
-ET
-
-0.300 0.420 0.750 rg
-
-BT
-/F1 8.6 Tf
-22 557.8899999999995 Td
-(•) Tj
-ET
-
-1.000 1.000 1.000 rg
-
-BT
-/F1 8.6 Tf
-34 555.8899999999995 Td
+34 535.4899999999994 Td
 (Conflict Resolution & Teamwork) Tj
 ET
 
@@ -182,7 +190,7 @@ ET
 
 BT
 /F1 8.6 Tf
-22 541.6899999999995 Td
+22 521.2899999999994 Td
 (•) Tj
 ET
 
@@ -190,15 +198,15 @@ ET
 
 BT
 /F1 8.6 Tf
-34 539.6899999999995 Td
-(Recruitment & Onboarding Interest) Tj
+34 519.2899999999994 Td
+(Public Speaking & Presentations) Tj
 ET
 
 0.300 0.420 0.750 rg
 
 BT
 /F1 8.6 Tf
-22 525.4899999999994 Td
+22 505.0899999999994 Td
 (•) Tj
 ET
 
@@ -206,7 +214,39 @@ ET
 
 BT
 /F1 8.6 Tf
-34 523.4899999999994 Td
+34 503.0899999999994 Td
+(Recruitment & Onboarding) Tj
+ET
+
+0.300 0.420 0.750 rg
+
+BT
+/F1 8.6 Tf
+22 488.8899999999994 Td
+(•) Tj
+ET
+
+1.000 1.000 1.000 rg
+
+BT
+/F1 8.6 Tf
+34 486.8899999999994 Td
+(International Project Experience) Tj
+ET
+
+0.300 0.420 0.750 rg
+
+BT
+/F1 8.6 Tf
+22 472.68999999999943 Td
+(•) Tj
+ET
+
+1.000 1.000 1.000 rg
+
+BT
+/F1 8.6 Tf
+34 470.68999999999943 Td
 (MS Office · Google Workspace) Tj
 ET
 
@@ -214,7 +254,7 @@ ET
 
 BT
 /F1 8.6 Tf
-22 509.2899999999994 Td
+22 456.48999999999944 Td
 (•) Tj
 ET
 
@@ -222,19 +262,27 @@ ET
 
 BT
 /F1 8.6 Tf
-34 507.2899999999994 Td
-(HTML / CSS · Python / SQL Basics) Tj
+34 454.48999999999944 Td
+(HTML/CSS · Python/SQL ·) Tj
+ET
+
+1.000 1.000 1.000 rg
+
+BT
+/F1 8.6 Tf
+34 442.28999999999945 Td
+(Procedural Programming) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-22 485.0899999999994 28 2.2 re f
+22 420.08999999999946 28 2.2 re f
 
 1.000 1.000 1.000 rg
 
 BT
 /F2 9 Tf
-22 476.0899999999994 Td
+22 411.08999999999946 Td
 (EDUCATION) Tj
 ET
 
@@ -242,7 +290,7 @@ ET
 
 BT
 /F1 8.6 Tf
-22 463.0899999999994 Td
+22 398.08999999999946 Td
 (•) Tj
 ET
 
@@ -250,7 +298,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 461.0899999999994 Td
+34 396.08999999999946 Td
 (BTech, Computer Science &) Tj
 ET
 
@@ -258,7 +306,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 448.8899999999994 Td
+34 383.8899999999995 Td
 (Engineering - Hooghly Engineering &) Tj
 ET
 
@@ -266,7 +314,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 436.68999999999943 Td
+34 371.6899999999995 Td
 (Technology College \(2025\)) Tj
 ET
 
@@ -274,7 +322,7 @@ ET
 
 BT
 /F1 8.6 Tf
-22 422.48999999999944 Td
+22 357.4899999999995 Td
 (•) Tj
 ET
 
@@ -282,7 +330,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 420.48999999999944 Td
+34 355.4899999999995 Td
 (Class X & XII - Kendriya Vidyalaya) Tj
 ET
 
@@ -290,19 +338,19 @@ ET
 
 BT
 /F1 8.6 Tf
-34 408.28999999999945 Td
+34 343.2899999999995 Td
 (No. 1, Ichhapore) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-22 386.08999999999946 28 2.2 re f
+22 321.0899999999995 28 2.2 re f
 
 1.000 1.000 1.000 rg
 
 BT
 /F2 9 Tf
-22 377.08999999999946 Td
+22 312.0899999999995 Td
 (CERTIFICATIONS) Tj
 ET
 
@@ -310,7 +358,7 @@ ET
 
 BT
 /F1 8.6 Tf
-22 364.08999999999946 Td
+22 299.0899999999995 Td
 (•) Tj
 ET
 
@@ -318,7 +366,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 362.08999999999946 Td
+34 297.0899999999995 Td
 (Google Project Management) Tj
 ET
 
@@ -326,7 +374,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 348.6899999999995 Td
+34 283.68999999999954 Td
 (\(Coursera\) - 6 courses, 2025) Tj
 ET
 
@@ -334,7 +382,7 @@ ET
 
 BT
 /F1 8.6 Tf
-22 333.2899999999995 Td
+22 268.28999999999957 Td
 (•) Tj
 ET
 
@@ -342,7 +390,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 331.2899999999995 Td
+34 266.28999999999957 Td
 (Accelerate Your Job Search \(LinkedIn) Tj
 ET
 
@@ -350,7 +398,7 @@ ET
 
 BT
 /F1 8.6 Tf
-34 319.0899999999995 Td
+34 254.08999999999958 Td
 (Learning\)) Tj
 ET
 
@@ -459,110 +507,106 @@ ET
 BT
 /F2 10.5 Tf
 240 562.4899999999997 Td
-(CAREER FOCUS) Tj
+(EXPERIENCE) Tj
+ET
+
+0.130 0.160 0.220 rg
+
+BT
+/F2 10.5 Tf
+240 545.4899999999997 Td
+(Project Management Intern) Tj
+ET
+
+0.460 0.490 0.570 rg
+
+BT
+/F3 9 Tf
+240 531.9899999999997 Td
+(Pehchaan The Street School \(Trust\) · Remote · 2026 \(2-week programme\)) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 542.4899999999997 5.2 5.2 re f
+240 515.4899999999997 5.2 5.2 re f
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 544.4899999999997 Td
-(Project Co-ordination & Delivery - planning, scheduling, Agile) Tj
+254 517.4899999999997 Td
+(Coordinated volunteers and assisted with planning and delivery of) Tj
 ET
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 530.2899999999996 Td
-(workflows, stakeholder updates) Tj
-ET
-
-0.300 0.420 0.750 rg
-
-240 510.0899999999996 5.2 5.2 re f
-
-0.130 0.160 0.220 rg
-
-BT
-/F1 9.5 Tf
-254 512.0899999999996 Td
-(Marketing & Brand Communication - audience engagement, campaign) Tj
-ET
-
-0.130 0.160 0.220 rg
-
-BT
-/F1 9.5 Tf
-254 497.8899999999996 Td
-(basics, content & persuasion) Tj
+254 503.2899999999997 Td
+(initiatives supporting street-school students) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 477.6899999999996 5.2 5.2 re f
+240 483.0899999999997 5.2 5.2 re f
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 479.6899999999996 Td
-(People & HR - employee engagement, recruitment support, training) Tj
+254 485.0899999999997 Td
+(Tracked deadlines and kept distributed team members aligned on) Tj
 ET
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 465.4899999999996 Td
-(and onboarding) Tj
-ET
-
-0.300 0.420 0.750 rg
-
-240 445.2899999999996 5.2 5.2 re f
-
-0.130 0.160 0.220 rg
-
-BT
-/F1 9.5 Tf
-254 447.2899999999996 Td
-(Teaching & Mentoring - making technical and management concepts) Tj
-ET
-
-0.130 0.160 0.220 rg
-
-BT
-/F1 9.5 Tf
-254 433.08999999999963 Td
-(easy to grasp) Tj
+254 470.8899999999997 Td
+(schedules, tasks, and follow-ups) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 419.88999999999965 30 2.4 re f
+240 450.6899999999997 5.2 5.2 re f
+
+0.130 0.160 0.220 rg
+
+BT
+/F1 9.5 Tf
+254 452.6899999999997 Td
+(Pitched and promoted campaigns to drive participation and awareness,) Tj
+ET
+
+0.130 0.160 0.220 rg
+
+BT
+/F1 9.5 Tf
+254 438.4899999999997 Td
+(translating the team's goals into clear calls to action) Tj
+ET
+
+0.300 0.420 0.750 rg
+
+240 425.28999999999974 30 2.4 re f
 
 0.160 0.230 0.420 rg
 
 BT
 /F2 10.5 Tf
-240 409.88999999999965 Td
+240 415.28999999999974 Td
 (ACHIEVEMENTS) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 389.88999999999965 5.2 5.2 re f
+240 395.28999999999974 5.2 5.2 re f
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 391.88999999999965 Td
+254 397.28999999999974 Td
 (Debate Champion - first position in English and Hindi debate) Tj
 ET
 
@@ -570,7 +614,7 @@ ET
 
 BT
 /F1 9.5 Tf
-254 377.68999999999966 Td
+254 383.08999999999975 Td
 (competitions, showcasing exceptional public speaking, argumentation,) Tj
 ET
 
@@ -578,19 +622,19 @@ ET
 
 BT
 /F1 9.5 Tf
-254 363.48999999999967 Td
+254 368.88999999999976 Td
 (and quick thinking) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 343.2899999999997 5.2 5.2 re f
+240 348.68999999999977 5.2 5.2 re f
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 345.2899999999997 Td
+254 350.68999999999977 Td
 (Extempore Champion - recognized for confident, on-the-spot speaking) Tj
 ET
 
@@ -598,19 +642,19 @@ ET
 
 BT
 /F1 9.5 Tf
-254 331.0899999999997 Td
+254 336.4899999999998 Td
 (before groups) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 310.8899999999997 5.2 5.2 re f
+240 316.2899999999998 5.2 5.2 re f
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 312.8899999999997 Td
+254 318.2899999999998 Td
 (Poetry Recitation - first in English, third in Hindi, highlighting creativity) Tj
 ET
 
@@ -618,19 +662,19 @@ ET
 
 BT
 /F1 9.5 Tf
-254 298.6899999999997 Td
+254 304.0899999999998 Td
 (and expressive communication) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 278.4899999999997 5.2 5.2 re f
+240 283.8899999999998 5.2 5.2 re f
 
 0.130 0.160 0.220 rg
 
 BT
 /F1 9.5 Tf
-254 280.4899999999997 Td
+254 285.8899999999998 Td
 (Organizational Recognition - appreciation certificate from the General) Tj
 ET
 
@@ -638,7 +682,7 @@ ET
 
 BT
 /F1 9.5 Tf
-254 266.28999999999974 Td
+254 271.6899999999998 Td
 (Manager, Metal & Steel Factory, for first position in their organizational) Tj
 ET
 
@@ -646,19 +690,19 @@ ET
 
 BT
 /F1 9.5 Tf
-254 252.08999999999975 Td
+254 257.48999999999984 Td
 (debate) Tj
 ET
 
 0.300 0.420 0.750 rg
 
-240 238.88999999999976 30 2.4 re f
+240 244.28999999999985 30 2.4 re f
 
 0.160 0.230 0.420 rg
 
 BT
 /F2 10.5 Tf
-240 228.88999999999976 Td
+240 234.28999999999985 Td
 (INTERESTS) Tj
 ET
 
@@ -666,7 +710,7 @@ ET
 
 BT
 /F1 9.5 Tf
-240 211.88999999999976 Td
+240 217.28999999999985 Td
 (Teaching & sharing knowledge, public speaking, writing, management) Tj
 ET
 
@@ -674,7 +718,7 @@ ET
 
 BT
 /F1 9.5 Tf
-240 197.68999999999977 Td
+240 203.08999999999986 Td
 (analytics, and learning people-management practices.) Tj
 ET
 
@@ -690,9 +734,9 @@ xref
 0000000185 00000 n 
 0000000260 00000 n 
 0000000338 00000 n 
-0000008777 00000 n 
+0000009307 00000 n 
 trailer
 << /Size 8 /Root 1 0 R >>
 startxref
-8929
+9459
 %%EOF
