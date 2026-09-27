@@ -145,6 +145,17 @@ nav {
   color: #fff;
 }
 
+.btn-sm {
+  padding: 7px 14px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.card .btn-sm {
+  margin-left: 0;
+}
+
 /* ---------- Sections ---------- */
 section {
   padding: 64px 0;

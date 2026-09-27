@@ -133,7 +133,7 @@ def build_list(articles):
             f'        <h2><a href="{stem}.html">{title}</a></h2>\n'
             f'        <p class="date">{date}</p>\n'
             f'        <p>{html.escape(teaser)}</p>\n'
-            f'        <a class="btn btn-outline" href="{stem}.html">Read article</a>\n'
+            f'        <a class="btn btn-outline btn-sm" href="{stem}.html">Read article</a>\n'
             f'      </div>'
         )
     cards_html = "\n".join(cards)
